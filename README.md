@@ -33,25 +33,25 @@ The dashboard transforms raw purchase data into meaningful business insights thr
 📂 Project Structure
 
 Customer-Behavior-Purchase-Analysis/
-│
-├── Dataset/
-│   └── clean_final_data.csv
-│
-├── PowerBI/
-│   └── Customer_Behavior_Purchase_Analysis.pbix
-│
-├── Screenshots/
-│   ├── 01_Home_1.1.jpeg
-│   ├── 02_Home_1.2.jpeg
-│   ├── 03_Customer_Analysis.jpeg
-│   ├── 04_Purchase_Analysis.jpeg
-│   ├── 05_Payment_Order_Analysis.jpeg
-│   └── 06_Sales_Trends.jpeg
-│
-├── Documentation/
-│   └── Customer_Behavior_Purchase_Analysis_Project.PPT
-│
-└── README.md
+
+Dataset/
+ -clean_final_data.csv
+
+PowerBI/
+ -Customer_Behavior_Purchase_Analysis.pbix
+
+Screenshots/
+ -01_Home_1.1.jpeg
+ -02_Home_1.2.jpeg
+ -03_Customer_Analysis.jpeg
+ -04_Purchase_Analysis.jpeg
+ -05_Payment_Order_Analysis.jpeg
+ -06_Sales_Trends.jpeg
+
+Documentation/
+ -Customer_Behavior_Purchase_Analysis_Project.PPT
+
+README.md
 
 ---
 
